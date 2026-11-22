@@ -1,8 +1,6 @@
 # Rick Jacoby
 
-Product leader in life insurance and annuities, now working on AI evaluation and applied ML. MBA, MFIN with data analytics, and graduate AI coursework at Penn State.
-
-Most of these repos come back to one question: how do you know a model is actually working? I set honest baselines, test on the path the model really runs, and read the errors before the headline number.
+Product leader in financial services with a passion for data, ML, and AI. MBA, MFIN with financial data analytics, and graduate AI coursework at Penn State.
 
 ## Pinned work
 
